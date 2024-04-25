@@ -1,0 +1,15 @@
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\bin\Debug\net7.0\Single Inheritance.exe
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\bin\Debug\net7.0\Single Inheritance.deps.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\bin\Debug\net7.0\Single Inheritance.runtimeconfig.json
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\bin\Debug\net7.0\Single Inheritance.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\bin\Debug\net7.0\Single Inheritance.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.csproj.AssemblyReference.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.AssemblyInfo.cs
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\refint\Single Inheritance.dll
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.pdb
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\Single Inheritance.genruntimeconfig.cache
+C:\Users\PriyadharshiniKesava\OneDrive - Syncfusion\Desktop\C# Basics\INHERITANCE\Single Inheritance\obj\Debug\net7.0\ref\Single Inheritance.dll
